@@ -1,2 +1,2 @@
 # hello-wolrd
-Just another repository
+First day impruving coding.
